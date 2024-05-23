@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "username": "johndoe",
+        "ratedMovies": [
+            {
+                "movieId": 1,
+                "rating": 5,
+                "comment": "Amazing movie!"
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,15 @@
+{
+    "name": "movie-reviews",
+    "version": "1.0.0",
+    "description": "A simple movie reviews website using Node.js, Express, HTML, CSS, and JavaScript.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
+}
